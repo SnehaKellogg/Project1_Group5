@@ -1,0 +1,881 @@
+,State,Year,Total Crime Rate
+0,Alabama,2000,9091.7
+1,Alabama,2001,8630.0
+2,Alabama,2002,8945.6
+3,Alabama,2003,8951.2
+4,Alabama,2004,8912.6
+5,Alabama,2005,8666.4
+6,Alabama,2006,8732.4
+7,Alabama,2007,8853.3
+8,Alabama,2008,9074.6
+9,Alabama,2009,8460.9
+10,Alabama,2010,7823.3
+11,Alabama,2011,8050.4
+12,Alabama,2012,7911.6
+13,Alabama,2013,7557.7
+14,Alabama,2014,7209.9
+15,Alaska,2000,8498.8
+16,Alaska,2001,8489.2
+17,Alaska,2002,8650.2
+18,Alaska,2003,8719.2
+19,Alaska,2004,8006.4
+20,Alaska,2005,8494.1
+21,Alaska,2006,8532.2
+22,Alaska,2007,8081.0
+23,Alaska,2008,7158.7
+24,Alaska,2009,7147.5
+25,Alaska,2010,6944.2
+26,Alaska,2011,6495.7
+27,Alaska,2012,6695.4
+28,Alaska,2013,7031.4
+29,Alaska,2014,6791.7
+30,Arizona,2000,11659.0
+31,Arizona,2001,12155.6
+32,Arizona,2002,12808.6
+33,Arizona,2003,12294.8
+34,Arizona,2004,11155.2
+35,Arizona,2005,10677.2
+36,Arizona,2006,10633.4
+37,Arizona,2007,10101.0
+38,Arizona,2008,9175.6
+39,Arizona,2009,8031.0
+40,Arizona,2010,7900.3
+41,Arizona,2011,7937.9
+42,Arizona,2012,7930.9
+43,Arizona,2013,7562.0
+44,Arizona,2014,7194.7
+45,Arkansas,2000,8230.6
+46,Arkansas,2001,8260.3
+47,Arkansas,2002,8326.7
+48,Arkansas,2003,8177.5
+49,Arkansas,2004,9070.9
+50,Arkansas,2005,9191.6
+51,Arkansas,2006,9076.5
+52,Arkansas,2007,8985.1
+53,Arkansas,2008,8756.0
+54,Arkansas,2009,8581.8
+55,Arkansas,2010,8114.0
+56,Arkansas,2011,8480.5
+57,Arkansas,2012,8355.7
+58,Arkansas,2013,8123.8
+59,Arkansas,2014,7636.2
+60,California,2000,7479.6
+61,California,2001,7786.4
+62,California,2002,7913.1
+63,California,2003,8012.0
+64,California,2004,7903.5
+65,California,2005,7692.9
+66,California,2006,7430.3
+67,California,2007,7135.1
+68,California,2008,6890.4
+69,California,2009,6408.7
+70,California,2010,6138.8
+71,California,2011,5990.8
+72,California,2012,6370.6
+73,California,2013,6107.7
+74,California,2014,5674.4
+75,Colorado,2000,7965.1
+76,Colorado,2001,8412.5
+77,Colorado,2002,8706.4
+78,Colorado,2003,8596.3
+79,Colorado,2004,8581.1
+80,Colorado,2005,8875.8
+81,Colorado,2006,7667.6
+82,Colorado,2007,6702.0
+83,Colorado,2008,6349.7
+84,Colorado,2009,6019.1
+85,Colorado,2010,5996.5
+86,Colorado,2011,5819.3
+87,Colorado,2012,5985.5
+88,Colorado,2013,5920.8
+89,Colorado,2014,5678.3
+90,Connecticut,2000,6465.4
+91,Connecticut,2001,6218.6
+92,Connecticut,2002,6027.4
+93,Connecticut,2003,5966.6
+94,Connecticut,2004,5947.9
+95,Connecticut,2005,5703.0
+96,Connecticut,2006,5771.7
+97,Connecticut,2007,5543.5
+98,Connecticut,2008,5595.0
+99,Connecticut,2009,5298.6
+100,Connecticut,2010,4941.6
+101,Connecticut,2011,4856.6
+102,Connecticut,2012,4864.1
+103,Connecticut,2013,4484.9
+104,Connecticut,2014,4314.6
+105,Delaware,2000,8956.0
+106,Delaware,2001,8101.2
+107,Delaware,2002,7892.0
+108,Delaware,2003,8181.2
+109,Delaware,2004,7797.2
+110,Delaware,2005,7501.9
+111,Delaware,2006,8354.8
+112,Delaware,2007,8167.8
+113,Delaware,2008,8606.6
+114,Delaware,2009,7998.3
+115,Delaware,2010,8154.4
+116,Delaware,2011,7996.0
+117,Delaware,2012,7797.8
+118,Delaware,2013,7270.2
+119,Delaware,2014,6942.2
+120,District of Columbia,2000,14553.1
+121,District of Columbia,2001,15484.6
+122,District of Columbia,2002,16093.7
+123,District of Columbia,2003,14976.9
+124,District of Columbia,2004,12444.4
+125,District of Columbia,2005,11739.5
+126,District of Columbia,2006,12324.6
+127,District of Columbia,2007,12662.8
+128,District of Columbia,2008,13084.6
+129,District of Columbia,2009,12201.6
+130,District of Columbia,2010,12176.4
+131,District of Columbia,2011,11982.5
+132,District of Columbia,2012,12194.9
+133,District of Columbia,2013,12174.3
+134,District of Columbia,2014,12853.6
+135,Florida,2000,11389.4
+136,Florida,2001,11155.0
+137,Florida,2002,10855.4
+138,Florida,2003,10376.6
+139,Florida,2004,9788.4
+140,Florida,2005,9444.3
+141,Florida,2006,9405.2
+142,Florida,2007,9622.7
+143,Florida,2008,9658.8
+144,Florida,2009,8906.6
+145,Florida,2010,8185.3
+146,Florida,2011,8064.0
+147,Florida,2012,7526.3
+148,Florida,2013,7134.2
+149,Florida,2014,7911.8
+150,Georgia,2000,9502.3
+151,Georgia,2001,9268.5
+152,Georgia,2002,9031.7
+153,Georgia,2003,9428.3
+154,Georgia,2004,9348.9
+155,Georgia,2005,9181.8
+156,Georgia,2006,8702.9
+157,Georgia,2007,8762.2
+158,Georgia,2008,8987.9
+159,Georgia,2009,8201.3
+160,Georgia,2010,8083.0
+161,Georgia,2011,8030.6
+162,Georgia,2012,7607.2
+163,Georgia,2013,7550.4
+164,Georgia,2014,7317.1
+165,Hawaii,2000,10397.9
+166,Hawaii,2001,10749.0
+167,Hawaii,2002,12128.6
+168,Hawaii,2003,11093.7
+169,Hawaii,2004,10100.2
+170,Hawaii,2005,10110.4
+171,Hawaii,2006,9001.2
+172,Hawaii,2007,8790.9
+173,Hawaii,2008,7678.0
+174,Hawaii,2009,7885.6
+175,Hawaii,2010,7227.8
+176,Hawaii,2011,6870.0
+177,Hawaii,2012,6732.9
+178,Hawaii,2013,6934.3
+179,Hawaii,2014,6618.5
+180,Idaho,2000,6372.3
+181,Idaho,2001,6268.8
+182,Idaho,2002,6335.6
+183,Idaho,2003,6350.1
+184,Idaho,2004,6056.8
+185,Idaho,2005,5908.0
+186,Idaho,2006,5291.8
+187,Idaho,2007,5064.0
+188,Idaho,2008,4675.1
+189,Idaho,2009,4531.8
+190,Idaho,2010,4442.7
+191,Idaho,2011,4555.9
+192,Idaho,2012,4408.8
+193,Idaho,2013,4179.1
+194,Idaho,2014,4134.1
+195,Illinois,2000,8478.4
+196,Illinois,2001,8209.2
+197,Illinois,2002,8044.0
+198,Illinois,2003,7688.5
+199,Illinois,2004,7439.5
+200,Illinois,2005,7287.5
+201,Illinois,2006,7122.4
+202,Illinois,2007,6938.0
+203,Illinois,2008,6916.0
+204,Illinois,2009,6468.2
+205,Illinois,2010,6326.0
+206,Illinois,2011,6205.4
+207,Illinois,2012,6003.3
+208,Illinois,2013,5399.4
+209,Illinois,2014,4891.9
+210,Indiana,2000,7503.8
+211,Indiana,2001,7647.9
+212,Indiana,2002,7502.6
+213,Indiana,2003,7415.9
+214,Indiana,2004,7459.1
+215,Indiana,2005,7567.3
+216,Indiana,2006,7542.1
+217,Indiana,2007,7413.2
+218,Indiana,2008,7375.7
+219,Indiana,2009,6892.6
+220,Indiana,2010,6787.0
+221,Indiana,2011,6986.7
+222,Indiana,2012,6746.6
+223,Indiana,2013,6425.5
+224,Indiana,2014,6029.3
+225,Iowa,2000,6467.3
+226,Iowa,2001,6582.6
+227,Iowa,2002,6898.4
+228,Iowa,2003,6507.8
+229,Iowa,2004,6385.3
+230,Iowa,2005,6277.2
+231,Iowa,2006,6218.6
+232,Iowa,2007,5897.0
+233,Iowa,2008,5457.0
+234,Iowa,2009,5224.0
+235,Iowa,2010,5044.2
+236,Iowa,2011,5217.0
+237,Iowa,2012,5107.2
+238,Iowa,2013,4942.5
+239,Iowa,2014,4734.5
+240,Kansas,2000,8817.6
+241,Kansas,2001,8618.9
+242,Kansas,2002,8186.4
+243,Kansas,2003,8815.8
+244,Kansas,2004,8786.9
+245,Kansas,2005,8390.8
+246,Kansas,2006,8409.4
+247,Kansas,2007,8335.2
+248,Kansas,2008,7596.9
+249,Kansas,2009,7264.9
+250,Kansas,2010,6974.9
+251,Kansas,2011,6888.6
+252,Kansas,2012,7025.4
+253,Kansas,2013,6604.7
+254,Kansas,2014,6167.6
+255,Kentucky,2000,5919.6
+256,Kentucky,2001,5793.5
+257,Kentucky,2002,5853.1
+258,Kentucky,2003,5517.2
+259,Kentucky,2004,5570.6
+260,Kentucky,2005,5596.0
+261,Kentucky,2006,5743.5
+262,Kentucky,2007,5673.4
+263,Kentucky,2008,5958.0
+264,Kentucky,2009,5559.2
+265,Kentucky,2010,5602.4
+266,Kentucky,2011,5931.1
+267,Kentucky,2012,5600.9
+268,Kentucky,2013,5169.8
+269,Kentucky,2014,4917.1
+270,Louisiana,2000,10845.5
+271,Louisiana,2001,10664.5
+272,Louisiana,2002,10210.7
+273,Louisiana,2003,9894.9
+274,Louisiana,2004,10118.2
+275,Louisiana,2005,8586.2
+276,Louisiana,2006,9604.0
+277,Louisiana,2007,9890.2
+278,Louisiana,2008,9104.5
+279,Louisiana,2009,8971.3
+280,Louisiana,2010,8400.1
+281,Louisiana,2011,8477.1
+282,Louisiana,2012,8062.1
+283,Louisiana,2013,8200.4
+284,Louisiana,2014,7947.1
+285,Maine,2000,5239.6
+286,Maine,2001,5385.7
+287,Maine,2002,5310.4
+288,Maine,2003,5117.6
+289,Maine,2004,5034.9
+290,Maine,2005,5062.1
+291,Maine,2006,5325.6
+292,Maine,2007,5134.2
+293,Maine,2008,5166.3
+294,Maine,2009,5049.9
+295,Maine,2010,5201.4
+296,Maine,2011,5339.3
+297,Maine,2012,5272.7
+298,Maine,2013,4849.2
+299,Maine,2014,4228.6
+300,Maryland,2000,9632.2
+301,Maryland,2001,9713.9
+302,Maryland,2002,9508.1
+303,Maryland,2003,9005.1
+304,Maryland,2004,8682.8
+305,Maryland,2005,8511.0
+306,Maryland,2006,8319.2
+307,Maryland,2007,8146.9
+308,Maryland,2008,8291.7
+309,Maryland,2009,7576.9
+310,Maryland,2010,7083.7
+311,Maryland,2011,6701.3
+312,Maryland,2012,6470.6
+313,Maryland,2013,6269.1
+314,Maryland,2014,5907.2
+315,Massachusetts,2000,6052.4
+316,Massachusetts,2001,6175.8
+317,Massachusetts,2002,6194.3
+318,Massachusetts,2003,6071.9
+319,Massachusetts,2004,5856.9
+320,Massachusetts,2005,5637.6
+321,Massachusetts,2006,5783.8
+322,Massachusetts,2007,5681.8
+323,Massachusetts,2008,5726.6
+324,Massachusetts,2009,5571.3
+325,Massachusetts,2010,5651.4
+326,Massachusetts,2011,5359.7
+327,Massachusetts,2012,5127.5
+328,Massachusetts,2013,4905.2
+329,Massachusetts,2014,4497.0
+330,Michigan,2000,8219.7
+331,Michigan,2001,8150.4
+332,Michigan,2002,7753.8
+333,Michigan,2003,7579.8
+334,Michigan,2004,7116.7
+335,Michigan,2005,7303.9
+336,Michigan,2006,7579.0
+337,Michigan,2007,7194.7
+338,Michigan,2008,6929.7
+339,Michigan,2009,6697.1
+340,Michigan,2010,6483.6
+341,Michigan,2011,5974.8
+342,Michigan,2012,5954.2
+343,Michigan,2013,5554.2
+344,Michigan,2014,4942.4
+345,Minnesota,2000,6976.8
+346,Minnesota,2001,7149.9
+347,Minnesota,2002,7063.0
+348,Minnesota,2003,6752.4
+349,Minnesota,2004,6622.9
+350,Minnesota,2005,6770.8
+351,Minnesota,2006,6785.9
+352,Minnesota,2007,6668.7
+353,Minnesota,2008,6259.0
+354,Minnesota,2009,5778.8
+355,Minnesota,2010,5609.4
+356,Minnesota,2011,5554.5
+357,Minnesota,2012,5597.8
+358,Minnesota,2013,5308.0
+359,Minnesota,2014,5053.3
+360,Mississippi,2000,8008.8
+361,Mississippi,2001,8365.5
+362,Mississippi,2002,8333.0
+363,Mississippi,2003,8062.4
+364,Mississippi,2004,7553.0
+365,Mississippi,2005,7108.3
+366,Mississippi,2006,7004.0
+367,Mississippi,2007,6810.4
+368,Mississippi,2008,6426.9
+369,Mississippi,2009,6489.1
+370,Mississippi,2010,6504.5
+371,Mississippi,2011,6570.5
+372,Mississippi,2012,6141.1
+373,Mississippi,2013,6005.7
+374,Mississippi,2014,6399.3
+375,Missouri,2000,9055.4
+376,Missouri,2001,9539.4
+377,Missouri,2002,9209.7
+378,Missouri,2003,9149.3
+379,Missouri,2004,8780.4
+380,Missouri,2005,8909.2
+381,Missouri,2006,8759.7
+382,Missouri,2007,8780.5
+383,Missouri,2008,8330.1
+384,Missouri,2009,7725.8
+385,Missouri,2010,7615.4
+386,Missouri,2011,7521.1
+387,Missouri,2012,7536.0
+388,Missouri,2013,7142.2
+389,Missouri,2014,6698.8
+390,Montana,2000,7795.7
+391,Montana,2001,7369.8
+392,Montana,2002,7018.8
+393,Montana,2003,6922.5
+394,Montana,2004,6459.7
+395,Montana,2005,6856.3
+396,Montana,2006,6468.2
+397,Montana,2007,6572.0
+398,Montana,2008,6059.8
+399,Montana,2009,5666.6
+400,Montana,2010,5679.7
+401,Montana,2011,5340.4
+402,Montana,2012,5749.5
+403,Montana,2013,5738.5
+404,Montana,2014,5593.2
+405,Nebraska,2000,8191.0
+406,Nebraska,2001,8625.0
+407,Nebraska,2002,8521.5
+408,Nebraska,2003,8091.4
+409,Nebraska,2004,7656.4
+410,Nebraska,2005,7438.4
+411,Nebraska,2006,7307.1
+412,Nebraska,2007,6907.4
+413,Nebraska,2008,6383.2
+414,Nebraska,2009,6114.7
+415,Nebraska,2010,5892.4
+416,Nebraska,2011,6032.4
+417,Nebraska,2012,6037.2
+418,Nebraska,2013,5794.2
+419,Nebraska,2014,5607.6
+420,Nevada,2000,8537.2
+421,Nevada,2001,8566.1
+422,Nevada,2002,9020.0
+423,Nevada,2003,9806.4
+424,Nevada,2004,9652.9
+425,Nevada,2005,9706.8
+426,Nevada,2006,9699.5
+427,Nevada,2007,9081.0
+428,Nevada,2008,8382.4
+429,Nevada,2009,7537.8
+430,Nevada,2010,6872.9
+431,Nevada,2011,6288.8
+432,Nevada,2012,6845.4
+433,Nevada,2013,6882.8
+434,Nevada,2014,6521.9
+435,New Hampshire,2000,4866.4
+436,New Hampshire,2001,4642.4
+437,New Hampshire,2002,4442.1
+438,New Hampshire,2003,4406.4
+439,New Hampshire,2004,4442.8
+440,New Hampshire,2005,3947.6
+441,New Hampshire,2006,4238.2
+442,New Hampshire,2007,4299.9
+443,New Hampshire,2008,4627.0
+444,New Hampshire,2009,4667.9
+445,New Hampshire,2010,4774.3
+446,New Hampshire,2011,5405.8
+447,New Hampshire,2012,5283.7
+448,New Hampshire,2013,4873.7
+449,New Hampshire,2014,4317.7
+450,New Jersey,2000,6320.9
+451,New Jersey,2001,6430.2
+452,New Jersey,2002,6063.2
+453,New Jersey,2003,5827.9
+454,New Jersey,2004,5578.6
+455,New Jersey,2005,5384.1
+456,New Jersey,2006,5258.2
+457,New Jersey,2007,5086.1
+458,New Jersey,2008,5239.8
+459,New Jersey,2009,4774.4
+460,New Jersey,2010,4775.2
+461,New Jersey,2011,4910.6
+462,New Jersey,2012,4673.3
+463,New Jersey,2013,4340.1
+464,New Jersey,2014,3990.7
+465,New Mexico,2000,11037.9
+466,New Mexico,2001,10637.5
+467,New Mexico,2002,10172.1
+468,New Mexico,2003,9512.7
+469,New Mexico,2004,9771.6
+470,New Mexico,2005,9556.6
+471,New Mexico,2006,9086.1
+472,New Mexico,2007,8983.0
+473,New Mexico,2008,8938.4
+474,New Mexico,2009,8692.8
+475,New Mexico,2010,8027.8
+476,New Mexico,2011,8221.9
+477,New Mexico,2012,8327.5
+478,New Mexico,2013,8812.0
+479,New Mexico,2014,8279.3
+480,New York,2000,6199.1
+481,New York,2001,5827.0
+482,New York,2002,5614.3
+483,New York,2003,5429.5
+484,New York,2004,5265.9
+485,New York,2005,5092.5
+486,New York,2006,4999.4
+487,New York,2007,4804.6
+488,New York,2008,4783.4
+489,New York,2009,4632.6
+490,New York,2010,4704.4
+491,New York,2011,4607.8
+492,New York,2012,4646.6
+493,New York,2013,4429.0
+494,New York,2014,4200.1
+495,North Carolina,2000,9838.8
+496,North Carolina,2001,9852.1
+497,North Carolina,2002,9459.1
+498,North Carolina,2003,9449.9
+499,North Carolina,2004,9216.7
+500,North Carolina,2005,9097.2
+501,North Carolina,2006,9182.9
+502,North Carolina,2007,9096.5
+503,North Carolina,2008,9019.0
+504,North Carolina,2009,8136.9
+505,North Carolina,2010,7612.4
+506,North Carolina,2011,7693.0
+507,North Carolina,2012,7448.6
+508,North Carolina,2013,6888.5
+509,North Carolina,2014,6405.1
+510,North Dakota,2000,4576.0
+511,North Dakota,2001,4819.4
+512,North Dakota,2002,4813.8
+513,North Dakota,2003,4380.3
+514,North Dakota,2004,4102.3
+515,North Dakota,2005,4272.2
+516,North Dakota,2006,4596.6
+517,North Dakota,2007,4420.4
+518,North Dakota,2008,4511.4
+519,North Dakota,2009,4494.4
+520,North Dakota,2010,4019.4
+521,North Dakota,2011,4390.9
+522,North Dakota,2012,4568.4
+523,North Dakota,2013,4789.4
+524,North Dakota,2014,4750.8
+525,Ohio,2000,8083.5
+526,Ohio,2001,8343.3
+527,Ohio,2002,8223.6
+528,Ohio,2003,7967.8
+529,Ohio,2004,8001.9
+530,Ohio,2005,8036.5
+531,Ohio,2006,8099.6
+532,Ohio,2007,7647.0
+533,Ohio,2008,7524.1
+534,Ohio,2009,7186.4
+535,Ohio,2010,7161.6
+536,Ohio,2011,7205.6
+537,Ohio,2012,7015.8
+538,Ohio,2013,6431.6
+539,Ohio,2014,6167.9
+540,Oklahoma,2000,9117.1
+541,Oklahoma,2001,9188.7
+542,Oklahoma,2002,9497.5
+543,Oklahoma,2003,9637.3
+544,Oklahoma,2004,9485.1
+545,Oklahoma,2005,9112.6
+546,Oklahoma,2006,8249.4
+547,Oklahoma,2007,8124.8
+548,Oklahoma,2008,8011.0
+549,Oklahoma,2009,8186.0
+550,Oklahoma,2010,7848.8
+551,Oklahoma,2011,7659.8
+552,Oklahoma,2012,7813.4
+553,Oklahoma,2013,7454.0
+554,Oklahoma,2014,6793.3
+555,Oregon,2000,9690.8
+556,Oregon,2001,10086.4
+557,Oregon,2002,9740.0
+558,Oregon,2003,10120.8
+559,Oregon,2004,9868.0
+560,Oregon,2005,9378.1
+561,Oregon,2006,8019.5
+562,Oregon,2007,7673.7
+563,Oregon,2008,7128.1
+564,Oregon,2009,6521.7
+565,Oregon,2010,6581.4
+566,Oregon,2011,6799.6
+567,Oregon,2012,6977.4
+568,Oregon,2013,6854.2
+569,Oregon,2014,6222.6
+570,Pennsylvania,2000,5990.7
+571,Pennsylvania,2001,5914.6
+572,Pennsylvania,2002,5685.1
+573,Pennsylvania,2003,5656.0
+574,Pennsylvania,2004,5657.6
+575,Pennsylvania,2005,5693.8
+576,Pennsylvania,2006,5781.3
+577,Pennsylvania,2007,5560.4
+578,Pennsylvania,2008,5644.7
+579,Pennsylvania,2009,5162.7
+580,Pennsylvania,2010,5079.2
+581,Pennsylvania,2011,5173.1
+582,Pennsylvania,2012,5044.4
+583,Pennsylvania,2013,4788.3
+584,Pennsylvania,2014,4491.5
+585,Rhode Island,2000,6952.9
+586,Rhode Island,2001,7364.7
+587,Rhode Island,2002,7187.5
+588,Rhode Island,2003,6561.7
+589,Rhode Island,2004,6267.0
+590,Rhode Island,2005,5960.9
+591,Rhode Island,2006,5690.0
+592,Rhode Island,2007,5671.8
+593,Rhode Island,2008,6195.5
+594,Rhode Island,2009,5741.7
+595,Rhode Island,2010,5637.5
+596,Rhode Island,2011,5817.7
+597,Rhode Island,2012,5654.8
+598,Rhode Island,2013,5401.9
+599,Rhode Island,2014,4785.6
+600,South Carolina,2000,10658.0
+601,South Carolina,2001,10790.7
+602,South Carolina,2002,10603.4
+603,South Carolina,2003,10656.2
+604,South Carolina,2004,10653.6
+605,South Carolina,2005,10274.7
+606,South Carolina,2006,10091.2
+607,South Carolina,2007,10161.0
+608,South Carolina,2008,9942.2
+609,South Carolina,2009,9168.9
+610,South Carolina,2010,9015.1
+611,South Carolina,2011,9035.7
+612,South Carolina,2012,8786.9
+613,South Carolina,2013,8278.6
+614,South Carolina,2014,7916.0
+615,South Dakota,2000,4639.7
+616,South Dakota,2001,4653.4
+617,South Dakota,2002,4561.0
+618,South Dakota,2003,4354.3
+619,South Dakota,2004,4205.4
+620,South Dakota,2005,3892.3
+621,South Dakota,2006,4062.5
+622,South Dakota,2007,3957.4
+623,South Dakota,2008,4002.6
+624,South Dakota,2009,3977.2
+625,South Dakota,2010,4257.7
+626,South Dakota,2011,4226.4
+627,South Dakota,2012,4802.2
+628,South Dakota,2013,4496.0
+629,South Dakota,2014,4380.7
+630,Tennessee,2000,9780.5
+631,Tennessee,2001,10288.6
+632,Tennessee,2002,10051.0
+633,Tennessee,2003,10161.2
+634,Tennessee,2004,10048.9
+635,Tennessee,2005,10115.1
+636,Tennessee,2006,9800.1
+637,Tennessee,2007,9707.2
+638,Tennessee,2008,9525.6
+639,Tennessee,2009,8865.2
+640,Tennessee,2010,8549.4
+641,Tennessee,2011,8431.4
+642,Tennessee,2012,8029.2
+643,Tennessee,2013,7564.6
+644,Tennessee,2014,7338.0
+645,Texas,2000,9911.0
+646,Texas,2001,10283.1
+647,Texas,2002,10399.7
+648,Texas,2003,10306.0
+649,Texas,2004,10077.1
+650,Texas,2005,9694.9
+651,Texas,2006,9200.8
+652,Texas,2007,9265.4
+653,Texas,2008,8989.5
+654,Texas,2009,9012.7
+655,Texas,2010,8430.4
+656,Texas,2011,7783.6
+657,Texas,2012,7543.4
+658,Texas,2013,7327.0
+659,Texas,2014,6850.7
+660,Utah,2000,8951.9
+661,Utah,2001,8452.7
+662,Utah,2002,8895.1
+663,Utah,2003,9011.1
+664,Utah,2004,8543.7
+665,Utah,2005,8123.5
+666,Utah,2006,7477.7
+667,Utah,2007,7517.2
+668,Utah,2008,7201.9
+669,Utah,2009,7020.7
+670,Utah,2010,6790.9
+671,Utah,2011,6369.6
+672,Utah,2012,6460.8
+673,Utah,2013,6544.0
+674,Utah,2014,6188.3
+675,Vermont,2000,5973.8
+676,Vermont,2001,5539.7
+677,Vermont,2002,5061.5
+678,Vermont,2003,4685.6
+679,Vermont,2004,4916.8
+680,Vermont,2005,4991.4
+681,Vermont,2006,5072.9
+682,Vermont,2007,4991.3
+683,Vermont,2008,5394.5
+684,Vermont,2009,5097.4
+685,Vermont,2010,4786.5
+686,Vermont,2011,5110.5
+687,Vermont,2012,5286.0
+688,Vermont,2013,4676.4
+689,Vermont,2014,3247.3
+690,Virginia,2000,6056.1
+691,Virginia,2001,6348.6
+692,Virginia,2002,6285.5
+693,Virginia,2003,5999.4
+694,Virginia,2004,5907.4
+695,Virginia,2005,5864.7
+696,Virginia,2006,5546.0
+697,Virginia,2007,5518.5
+698,Virginia,2008,5580.1
+699,Virginia,2009,5384.4
+700,Virginia,2010,5099.4
+701,Virginia,2011,4908.9
+702,Virginia,2012,4742.1
+703,Virginia,2013,4544.3
+704,Virginia,2014,4253.0
+705,Washington,2000,10211.3
+706,Washington,2001,10294.4
+707,Washington,2002,10216.8
+708,Washington,2003,10203.9
+709,Washington,2004,10380.6
+710,Washington,2005,10470.8
+711,Washington,2006,9717.6
+712,Washington,2007,8766.9
+713,Washington,2008,8280.8
+714,Washington,2009,8031.9
+715,Washington,2010,8025.1
+716,Washington,2011,7748.9
+717,Washington,2012,7974.3
+718,Washington,2013,8011.8
+719,Washington,2014,7982.7
+720,West Virginia,2000,5205.5
+721,West Virginia,2001,5121.8
+722,West Virginia,2002,5022.1
+723,West Virginia,2003,5188.8
+724,West Virginia,2004,5675.5
+725,West Virginia,2005,5813.7
+726,West Virginia,2006,5834.9
+727,West Virginia,2007,5588.8
+728,West Virginia,2008,5619.0
+729,West Virginia,2009,5689.5
+730,West Virginia,2010,5056.7
+731,West Virginia,2011,4798.7
+732,West Virginia,2012,5433.9
+733,West Virginia,2013,4918.6
+734,West Virginia,2014,4673.4
+735,Wisconsin,2000,6418.2
+736,Wisconsin,2001,6637.6
+737,Wisconsin,2002,6507.2
+738,Wisconsin,2003,6203.0
+739,Wisconsin,2004,5751.0
+740,Wisconsin,2005,5823.1
+741,Wisconsin,2006,6214.2
+742,Wisconsin,2007,6270.9
+743,Wisconsin,2008,6075.4
+744,Wisconsin,2009,5741.9
+745,Wisconsin,2010,5514.9
+746,Wisconsin,2011,5400.6
+747,Wisconsin,2012,5486.4
+748,Wisconsin,2013,4938.7
+749,Wisconsin,2014,4757.4
+750,United States-Total,2000,8249.6
+751,United States-Total,2001,8325.1
+752,United States-Total,2002,8249.9
+753,United States-Total,2003,8134.1
+754,United States-Total,2004,7954.6
+755,United States-Total,2005,7801.0
+756,United States-Total,2006,7651.8
+757,United States-Total,2007,7496.4
+758,United States-Total,2008,7346.3
+759,United States-Total,2009,6946.5
+760,United States-Total,2010,6700.9
+761,United States-Total,2011,6585.0
+762,United States-Total,2012,6511.5
+763,United States-Total,2013,6224.7
+764,United States-Total,2014,5943.6
+765,,,
+766,,,
+767,,		,
+768,,		,
+769,,		,
+770,,		,
+771,,		,
+772,,		,
+773,,		,
+774,,,
+775,,,
+776,, ,
+777,,,
+778,, ,
+779,,,
+780,,,
+781,, ,
+782,,,
+783,, ,
+784,,,
+785,, ,
+786,,,
+787,, ,
+788,,,
+789,,,
+790,, ,
+791,,,
+792,, ,
+793,,,
+794,,,
+795,,,
+796,, ,
+797,,,
+798,, ,
+799,,,
+800,,,
+801,, ,
+802,,,
+803,, ,
+804,,,
+805,,,
+806,,,
+807,,,
+808,, ,
+809,,,
+810,,  ,
+811,, ,
+812,,,
+813,, ,
+814,,,
+815,,,
+816,,,
+817,,,
+818,,,
+819,,,
+820,,,
+821,,,
+822,, ,
+823,,,
+824,, ,
+825,,,
+826,,,
+827,,,
+828,,,
+829,,,
+830,,,
+831,,,
+832,,,
+833,,,
+834,, ,
+835,,,
+836,,  ,
+837,, ,
+838,,,
+839,,  ,
+840,, ,
+841,,,
+842,, ,
+843,,,
+844,, ,
+845,,,
+846,, ,
+847,,,
+848,,,
+849,,,
+850,,,
+851,,,
+852,,,
+853,,,
+854,,,
+855,, ,
+856,,,
+857,, ,
+858,,,
+859,,,
+860,,,
+861,, ,
+862,,,
+863,, ,
+864,,,
+865,, ,
+866,,,
+867,,  ,
+868,, ,
+869,,,
+870,,  ,
+871,, ,
+872,,,
+873,,  ,
+874,, ,
+875,,,
+876,, ,
+877,,,
+878,,"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data ",
+879,,Date of download: Mar 26 2019 ,
