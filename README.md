@@ -1,4 +1,4 @@
-# Project1_Group5
+# How Higher Minimum Wages Impact Employment, Crime, and our Overall Economic Profile
 
 Summary
 ---
