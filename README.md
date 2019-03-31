@@ -1,6 +1,29 @@
 # Project1_Group5
 
-Data used:
+Summary
+---
+  * The debate about the effect increases in the minimum wage have on employment is ongoing.
+  * Some studies find either no or only a small effect while others find significant effects 
+  * A study recently published in the American Economic Association provides new evidence that increases in minimum wage reduce employment in the long run (click here for review)
+  * The goal of this research is to review 8 years of historic data across the entire United States and come up with our own understanding of the impacts of minimum wage on the overall economic profile of our country. 
+
+Hypothesis:
+---
+We are set out to test three related hypotheses regarding the United States economy: 
+  * Higher minimum wage has the potential to increase unemployment rates over time
+  * Higher minimum wage has short term positive impact on CPI which eventually levels off as unemployment rises
+  * Because of increased unemployment, crime rates will also go up over time
+  
+Questions: 
+---
+  * What is the relationship between unemployment and crime
+  * Does that relationship vary by state, region, or is it consistent across the entire United States
+  * Did minimum wage increase, decrease, or remain the same across the time frame of our dataset
+  * Did changes in minimum wage impact employment and subsequently crime?
+
+Data Overview: 
+---
+
 1. Minimum wage Data:
 
 Source: https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
@@ -40,26 +63,6 @@ The values in the dataset are as follows:
 
 <b>Low.2018</b>: This is the 2018-equivalent dollars for Low.Value.
 
-Summary
----
-  * The debate about the effect increases in the minimum wage have on employment is ongoing.
-  * Some studies find either no or only a small effect while others find significant effects 
-  * A study recently published in the American Economic Association provides new evidence that increases in minimum wage reduce employment in the long run (click here for review)
-  * The goal of this research is to review 8 years of historic data across the entire United States and come up with our own understanding of the impacts of minimum wage on the overall economic profile of our country. 
-
-Hypothesis:
----
-We are set out to test three related hypotheses regarding the United States economy: 
-  * Higher minimum wage has the potential to increase unemployment rates over time
-  * Higher minimum wage has short term positive impact on CPI which eventually levels off as unemployment rises
-  * Because of increased unemployment, crime rates will also go up over time
-  
-Questions: 
----
-  * What is the relationship between unemployment and crime
-  * Does that relationship vary by state, region, or is it consistent across the entire United States
-  * Did minimum wage increase, decrease, or remain the same across the time frame of our dataset
-  * Did changes in minimum wage impact employment and subsequently crime?
 
 Summary of Findings: 
 ---
