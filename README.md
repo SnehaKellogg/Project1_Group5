@@ -4,7 +4,7 @@ Summary
 ---
   * The debate about the effect increases in the minimum wage have on employment is ongoing.
   * Some studies find either no or only a small effect while others find significant effects 
-  * A study recently published in the American Economic Association provides new evidence that increases in minimum wage reduce employment in the long run (click here for review)
+  * A study recently published in the American Economic Association provides new evidence that increases in minimum wage reduce employment in the long run
   * The goal of this research is to review 8 years of historic data across the entire United States and come up with our own understanding of the impacts of minimum wage on the overall economic profile of our country. 
 
 Hypothesis:
