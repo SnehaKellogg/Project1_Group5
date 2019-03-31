@@ -25,15 +25,15 @@ Data Overview:
 ---
 
 1. Minimum wage Data:
- * Source: https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
- * This formed the inspiration for our data exploration where the cleaned minimum wage data was pulled from a kaggle file. This data includes historical rate for 40 years (1968 to 2017). 
+     * Source: https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+     * This formed the inspiration for our data exploration where the cleaned minimum wage data was pulled from a kaggle file. This data includes historical rate for 40 years (1968 to 2017). 
 
 2. Unemployment data
- * Source: http://www.ncsl.org/research/labor-and-employment/2012-state-unemployment-rates.aspx
- * This let us extract the unemployment data from 2009 - 2017. We merged and cleaned this data to find the total unemployment rate for each states individually for all the years
+     * Source: http://www.ncsl.org/research/labor-and-employment/2012-state-unemployment-rates.aspx
+     * This let us extract the unemployment data from 2009 - 2017. We merged and cleaned this data to find the total unemployment rate for each states individually for all the years
 
 3. Crime Data
- * Source: https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+     * Source: https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
 
 Extracting the latest 15 years' data available in FBI UCRA tool for state by state crime in United States. The data has categorized crime data, which if time permits will let us diagnose the type of crime which picked up/ dropped. 
 The year range for this data is 2000 - 2014 for our purposes. 
