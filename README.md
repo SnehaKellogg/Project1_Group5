@@ -35,10 +35,10 @@ Data Overview:
 3. Crime Data
      * Source: https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
 
-Extracting the latest 15 years' data available in FBI UCRA tool for state by state crime in United States. The data has categorized crime data, which if time permits will let us diagnose the type of crime which picked up/ dropped. 
+     * Extracting the latest 15 years' data available in FBI UCRA tool for state by state crime in United States. The data has categorized crime data, which if time permits will let us diagnose the type of crime which picked up/ dropped. 
 The year range for this data is 2000 - 2014 for our purposes. 
 
-Since we do not have years beyond those, we will be using unemployment years as the master years and merge all datasets into those.  
+    * Since we do not have years beyond those, we will be using unemployment years as the master years and merge all datasets into those.  
 
 <b>Description of Data of unemployment</b>
 
